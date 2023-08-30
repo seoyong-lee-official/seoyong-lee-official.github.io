@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Liebe
-description: a project with a background image
+description: Silver poodle, 3 years old
 img: /assets/img/liebe.jpeg
 importance: 1
 category: fun
