@@ -20,7 +20,7 @@
       "url": "https://airsmed.com/",
       "startDate": "2023-01",
       "endDate": "2023-10",
-      "summary": "Implemented SOTA deep-learning architectures to improve image restoration performance and to mitigate artifacts produced by deep learning. Implemented mathematical algorithms for MRI reconstruction",
+      "summary": "",
       "highlights": [
         "Image denoising, Image super resolution, MR reconstruction pipeline"
       ]
@@ -59,7 +59,7 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": ["C++", "Python"],
   "languages": [
     {
       "language": "Korean",
