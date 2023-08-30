@@ -30,7 +30,7 @@
   "education": [
     {
       "url": "https://en.snu.ac.kr/",
-      "area": ["Dept. of Electrical and Computer Engineering","GPA : 4.26/4.30"],
+      "area": "Dept. of Electrical and Computer Engineering",
       "studyType": "Seoul National University",
       "startDate": "2020-03",
       "endDate": "Current",
@@ -40,7 +40,7 @@
     },
     {
       "url": "https://www.ksa.hs.kr/",
-      "area": ["Majored in Physics", "GPA : 4.27/4.30"],
+      "area": "Majored in Physics",
       "studyType": "Korea Science Academy of KAIST",
       "startDate": "2017-03",
       "endDate": "2020-02",
@@ -50,16 +50,11 @@
     }
   ],
   "awards": [
-    {
-      "title": "National Science Technology Scholarship",
-      "date": "2022",
-      "awarder": "Minister of Science and ICT",
-      "summary": "scholarship"
-    }
+
   ],
   "certificates": [],
   "publications": [],
-  "skills": [{"skill":"C++"}, {"skill":"Python"}],
+  "skills": [],
   "languages": [
     {
       "language": "Korean",
