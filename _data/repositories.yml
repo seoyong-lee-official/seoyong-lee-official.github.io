@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - syleeKR
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - syleeKR/2021-ICPC-Team-Note
+  - syleeKR/DeepRL-DDPG-Trading
+  - syleeKR/Mathematical-Foundations-of-Deep-Neural-Networks-Fall-2022
+
