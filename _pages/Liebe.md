@@ -1,13 +1,9 @@
 ---
-layout: about
+layout: default
 permalink: /liebe/
 title: Liebe
-profile:
-  align: center
-  image: liebe.jpeg
-  image_circular: false # crops the image to make it circular
-
 nav: true
 nav_order: 5
 description: Liebe, silver poodle, 3 years old
 ---
+<img src=”/assets/img/libe.jpeg”>
