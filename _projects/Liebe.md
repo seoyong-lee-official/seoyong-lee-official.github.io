@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Liebe
 description: a project with a background image
-img: assets/img/12.jpg
+img: /assets/img/libe.jpeg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: life
 ---
 
 Every project has a beautiful feature showcase page.
