@@ -19,3 +19,10 @@ social: true  # includes social icons at the bottom of the page
 
 
 I am currently working as a research scientist on [AIRS Medical](https://airsmed.com/), solving problems related to fast MR Imaging
+
+
+
+
+
+
+**Link to [CV](/assets/pdf/SYLEE_cv.pdf){:target="_blank"}**
