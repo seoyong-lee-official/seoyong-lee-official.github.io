@@ -2,7 +2,7 @@
 layout: page
 title: Liebe
 description: a project with a background image
-img: /assets/img/libe.jpeg
+img: /assets/img/liebe.jpeg
 importance: 1
 category: fun
 ---
