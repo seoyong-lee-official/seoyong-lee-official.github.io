@@ -4,7 +4,7 @@ title: Liebe
 description: a project with a background image
 img: /assets/img/libe.jpeg
 importance: 1
-category: life
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
