@@ -18,8 +18,8 @@
       "name": "AIRS Medical (Seoul, Korea)",
       "position": "Research Scientist",
       "url": "https://airsmed.com/",
-      "startDate": "01/2023",
-      "endDate": "10/2023",
+      "startDate": "2023-01",
+      "endDate": "2023-10",
       "summary": "Implemented SOTA deep-learning architectures to improve image restoration performance and to mitigate artifacts produced by deep learning. Implemented mathematical algorithms for MRI reconstruction",
       "highlights": [
         "Image denoising, Image super resolution, MR reconstruction pipeline"
@@ -29,30 +29,22 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Seoul National University",
       "url": "https://en.snu.ac.kr/",
       "area": "Dept. of Electrical and Computer Engineering",
-      "studyType": "Bachelor",
+      "studyType": "Seoul National University",
       "startDate": "2020-03",
       "endDate": "Current",
-      "score": "GPA : 4.26/4.30",
+      "score": "4.26/4.30",
       "courses": [
-        "Mathematical algorithms 2 (graduate course)" ,
-        "Mathematical Foundations of Deep Neural Network", 
-        "Machine Learning Fundamentals and Applications in ECE", 
-        "Stochastic Control and Reinforcement Learning (graduate course)", 
-        "Introduction to Random Variables and Random Processes", "Mathematical Analysis", 
-        "Introduction to Data Structures", "Introduction to Algorithms"
       ]
     },
     {
-      "institution": "Korea Science Academy of KAIST",
       "url": "https://www.ksa.hs.kr/",
       "area": "Majored in Physics",
-      "studyType": "Secondary School",
+      "studyType": "Korea Science Academy of KAIST",
       "startDate": "2017-03",
       "endDate": "2020-02",
-      "score": "GPA : 4.27/4.30",
+      "score": "4.27/4.30",
       "courses": ["Graduated with distinction : Busan Mayor’s award"
       ]
     }
