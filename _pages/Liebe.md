@@ -3,7 +3,7 @@ layout: default
 permalink: /liebe/
 title: Liebe
 profile:
-  align: right
+  align: center
   image: liebe.jpeg
   image_circular: false # crops the image to make it circular
 
