@@ -1,61 +1,69 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Seoyong Lee",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sylee2685@gmail.com",
+    "phone": "010-2995-2685",
+    "url": "https://seoyong-lee-official.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "city": "Seoul",
+      "countryCode": "KR",
+      "region": "South Korea"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "AIRS Medical (Seoul, Korea)",
+      "position": "Research Scientist",
+      "url": "https://airsmed.com/",
+      "startDate": "01/2023",
+      "endDate": "10/2023",
+      "summary": "Implemented SOTA deep-learning architectures to improve image restoration performance and to mitigate artifacts produced by deep learning \n
+                  Implemented mathematical algorithms for MRI reconstruction"
       "highlights": [
-        "Relativity"
+        "Image denoising, Image super resolution, MR reconstruction pipeline"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "Seoul National University",
+      "url": "https://en.snu.ac.kr/",
+      "area": "Dept. of Electrical and Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2020-03",
+      "endDate": "Current",
+      "score": "GPA : 4.26/4.30",
       "courses": [
-        "Theory of Relativity"
+        "Mathematical algorithms 2 (graduate course) \n
+        Mathematical Foundations of Deep Neural Network \n
+        Machine Learning Fundamentals and Applications in ECE \n
+        Stochastic Control and Reinforcement Learning (graduate course) \n
+        Introduction to Random Variables and Random Processes, Mathematical Analysis \n
+        Introduction to Data Structures, Introduction to Algorithms"
+      ]
+    },
+    {
+      "institution": "Korea Science Academy of KAIST",
+      "url": "https://www.ksa.hs.kr/",
+      "area": "Majored in Physics",
+      "studyType": "Secondary School",
+      "startDate": "2017-03",
+      "endDate": "2020-02",
+      "score": "GPA : 4.27/4.30",
+      "courses": [Graduated with distinction : Busan Mayor’s award
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "National Science Technology Scholarship",
+      "date": "2022",
+      "awarder": "Minister of Science and ICT",
+      "summary": "scholarship"
     }
   ],
   "certificates": [],
@@ -63,7 +71,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker"
     },
     {
