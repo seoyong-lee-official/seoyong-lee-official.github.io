@@ -33,7 +33,7 @@ He enjoys his life.
         {% include figure.html path="assets/img/liebe4.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/liebe5.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/liebe7.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/liebe9.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -47,14 +47,14 @@ He enjoys his life.
 He is quite handsome.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/liebe6.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/liebe7.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/liebe8.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-8 mt-md-0">
+        {% include figure.html path="assets/img/liebe5.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
