@@ -20,8 +20,7 @@
       "url": "https://airsmed.com/",
       "startDate": "01/2023",
       "endDate": "10/2023",
-      "summary": "Implemented SOTA deep-learning architectures to improve image restoration performance and to mitigate artifacts produced by deep learning \n
-                  Implemented mathematical algorithms for MRI reconstruction"
+      "summary": "Implemented SOTA deep-learning architectures to improve image restoration performance and to mitigate artifacts produced by deep learning. Implemented mathematical algorithms for MRI reconstruction",
       "highlights": [
         "Image denoising, Image super resolution, MR reconstruction pipeline"
       ]
@@ -38,12 +37,12 @@
       "endDate": "Current",
       "score": "GPA : 4.26/4.30",
       "courses": [
-        "Mathematical algorithms 2 (graduate course) \n
-        Mathematical Foundations of Deep Neural Network \n
-        Machine Learning Fundamentals and Applications in ECE \n
-        Stochastic Control and Reinforcement Learning (graduate course) \n
-        Introduction to Random Variables and Random Processes, Mathematical Analysis \n
-        Introduction to Data Structures, Introduction to Algorithms"
+        "Mathematical algorithms 2 (graduate course)" ,
+        "Mathematical Foundations of Deep Neural Network", 
+        "Machine Learning Fundamentals and Applications in ECE", 
+        "Stochastic Control and Reinforcement Learning (graduate course)", 
+        "Introduction to Random Variables and Random Processes", "Mathematical Analysis", 
+        "Introduction to Data Structures", "Introduction to Algorithms"
       ]
     },
     {
@@ -54,7 +53,7 @@
       "startDate": "2017-03",
       "endDate": "2020-02",
       "score": "GPA : 4.27/4.30",
-      "courses": [Graduated with distinction : Busan Mayor’s award
+      "courses": ["Graduated with distinction : Busan Mayor’s award"
       ]
     }
   ],
