@@ -13,7 +13,9 @@
       "region": "South Korea"
     }
   },
-  "interests": [{"name":"Physics"},{"name":"Deep learning"},{"name":"Algorithms"}],
+  "interests": [{"name":"Physics" ,"keywords":"quantum physics, photonics"},
+  {"name":"Deep learning + Algorithms"}
+  ],
   "work": [
     {
       "name": "AIRS Medical (Seoul, Korea)",
@@ -68,5 +70,6 @@
     }
   ],
   "references": [],
-  "projects": []
+  "projects": [],
+  "competitive programming":[{"name":"SNU"}]
 }
