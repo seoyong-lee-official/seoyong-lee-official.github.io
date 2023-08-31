@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Diffusion Models
-date: 2023-09-01 00:10:00-0400
+date: 2023-08-01 00:10:00-0400
 description: Basics of diffusion models
 tags: deep learning
 related_posts: false
