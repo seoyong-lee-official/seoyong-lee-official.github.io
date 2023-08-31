@@ -13,6 +13,7 @@
       "region": "South Korea"
     }
   },
+  "interests": [{"name":"Physics"},{"name":"Deep learning"},{"name":"Algorithms"}],
   "work": [
     {
       "name": "AIRS Medical (Seoul, Korea)",
@@ -29,6 +30,7 @@
   "volunteer": [],
   "education": [
     {
+      "institution" : "Bachelor",
       "url": "https://en.snu.ac.kr/",
       "area": "Dept. of Electrical and Computer Engineering",
       "studyType": "Seoul National University",
@@ -65,7 +67,6 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
   "references": [],
   "projects": []
 }
