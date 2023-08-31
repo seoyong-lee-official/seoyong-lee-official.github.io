@@ -22,3 +22,6 @@ Hello! I am an undergraduate student at Seoul National University, majoring in E
 I am currently working as a research scientist on [AIRS Medical](https://airsmed.com/), solving problems related to MR Imaging and deep learning.
 
 
+
+## Contact
+>please feel free to contact me at: sylee2685 {at} gmail {dot} com.
