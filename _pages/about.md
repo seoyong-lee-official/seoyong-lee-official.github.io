@@ -17,12 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Hello! I am an undergraduate student at Seoul National University, majoring in Electrical and Computer Engineering. 
 
-I am currently working as a research scientist on [AIRS Medical](https://airsmed.com/), solving problems related to fast MR Imaging
-
-
-
+I am currently working as a research scientist on [AIRS Medical](https://airsmed.com/), solving problems related to MR Imaging and deep learning.
 
 
-
-**Link to [CV](/assets/pdf/SYLEE_cv.pdf){:target="_blank"}**
