@@ -59,21 +59,21 @@
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "Korean",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
   "references": [],
   "projects": [],
-  "programming":[{"title":"SNUPC","date":"2021-09", "summary":""},
-{},
-{},
+  "programming":[{"title":"SNUPC","date":"2021-09", "summary":"Div2 1st place"},
+{"title":"ICPC Seoul preliminary","date":"2021-10", "summary":"14th place, qualified for regional"},
+{"title":"ICPC Seoul","date":"2021-11", "summary":"23rd place"},
 {}
+],
+"languages": [
+  {
+    "language": "Korean",
+    "fluency": "Native speaker"
+  },
+  {
+    "language": "English",
+    "fluency": "Fluent"
+  }
 ]
 }
