@@ -2,7 +2,7 @@
 layout: page
 title: life
 permalink: /life/
-description: A growing collection of your cool projects.
+description: Connecting the dots
 nav: true
 nav_order: 2
 display_categories: [work, fun]
