@@ -61,8 +61,7 @@
   "skills": [],
   "references": [],
   "projects": [],
-  "programming":[{"title":"started C++ & problem solving" , "date":"20201-01", "summary":    My BOJ ID :<li><a href="https://solved.ac/en/profile/syleekr/">syleekr</a> </li>
-},
+  "programming":[{"title":"started C++ & problem solving" , "date":"20201-01", "link":"https://solved.ac/en/profile/syleekr/", "linkexplain":"syleekr"},
 {"title":"SNUPC","date":"2021-09", "summary":"Div2 1st place"},
 {"title":"ICPC Seoul preliminary","date":"2021-10", "summary":"14th place, qualified for regional"},
 {"title":"ICPC Seoul","date":"2021-11", "summary":"23rd place"}
