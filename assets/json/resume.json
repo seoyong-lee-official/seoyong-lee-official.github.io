@@ -20,7 +20,7 @@
       "url": "https://airsmed.com/",
       "startDate": "2023-01",
       "endDate": "2023-10",
-      "summary": "",
+      "summary": "Deeplearning + MRI",
       "highlights": [
         "Image denoising, Image super resolution, MR reconstruction pipeline"
       ]
@@ -34,8 +34,8 @@
       "studyType": "Seoul National University",
       "startDate": "2020-03",
       "endDate": "Current",
-      "score": ,
-      "courses": [
+      "score": "",
+      "courses": ["GPA 4.26/4.3"
       ]
     },
     {
@@ -44,8 +44,8 @@
       "studyType": "Korea Science Academy of KAIST",
       "startDate": "2017-03",
       "endDate": "2020-02",
-      "score":,
-      "courses": ["Graduated with distinction : Busan Mayor’s award"
+      "score":"",
+      "courses": ["GPA 4.27/4.3","Graduated with distinction : Busan Mayor’s award"
       ]
     }
   ],
