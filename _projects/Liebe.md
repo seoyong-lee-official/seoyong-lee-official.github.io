@@ -40,7 +40,7 @@ He enjoys his life.
     </div>
 </div>
 <div class="caption">
-    His favorites : Sleeping, Eating meat, and Running
+    His favorites : Running, Eating, and Taking a nap
 </div>
 
 
