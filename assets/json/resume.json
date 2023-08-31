@@ -23,7 +23,7 @@
       "url": "https://airsmed.com/",
       "startDate": "2023-01",
       "endDate": "2023-10",
-      "summary": "MRI with deep learning",
+      "summary": "Accelerating MR imaging through deep learning. Worked on devising suitable architectures and implementing algorithms for signal processing and reconstruction.",
       "highlights": [
         "Image denoising, Image super resolution, MR reconstruction pipeline"
       ]
