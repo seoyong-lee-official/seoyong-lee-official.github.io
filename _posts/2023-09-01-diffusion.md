@@ -3,11 +3,19 @@ layout: post
 title: Diffusion Models
 date: 2023-08-01 00:10:00-0400
 description: Basics of diffusion models
-tags: deep learning
+tags: deeplearning
 related_posts: false
 ---
+#generate table of contents
 
-Foundation of Diffusion Model
+```yml
+toc:
+  #beginning: true
+  sidebar: left
+```
+
+
+# Foundation of Diffusion Model
 
 ## 1. Abstract
 >
