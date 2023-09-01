@@ -5,12 +5,9 @@ date: 2023-08-01 00:10:00-0400
 description: Basics of diffusion models
 tags: deeplearning
 related_posts: false
----
-
-```yml
 toc:
   sidebar: left
-```
+---
 
 # Foundation of Diffusion Model
 
