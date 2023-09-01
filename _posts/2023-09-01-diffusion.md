@@ -6,14 +6,11 @@ description: Basics of diffusion models
 tags: deeplearning
 related_posts: false
 ---
-#generate table of contents
 
 ```yml
 toc:
-  #beginning: true
   sidebar: left
 ```
-
 
 # Foundation of Diffusion Model
 
@@ -34,4 +31,9 @@ toc:
 >
 Forward process를 정의하고, 이에 해당하는 reverse process를 학습한다면, noise로부터 data($$e.g.image$$)를 generate할 수 있게 됨! 이게 끝
 - Diffusion model의 forward process를 정의하는 방법은 다양함(그에 따라 이름이 다르게 붙음 : $$e.g.,DDPM, DDIM, ...$$)
-- 가장 일반적인, forward process: **Stochastic Differential Equation(SDE)** 
+- 가장 일반적인, forward process: **Stochastic Differential Equation(SDE)**
+
+
+## 2. something
+
+## 3. test
