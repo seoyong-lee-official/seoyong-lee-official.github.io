@@ -3,7 +3,7 @@
   "interests": [{"name":"Physics" ,"keywords":"photonics, quantum mechanics"},
   {"name":"Deep learning + Algorithms", "keywords": "generative model, RL, algorithmic problem solving"}
   ],
-  "work experience": [
+  "Experience": [
     {
       "name": "AB180 (Seoul, Korea)",
       "position": "Data Scientist",
@@ -60,9 +60,11 @@
   "projects": [],
   "programming":[{"title":"started C++ & problem solving" , "date":"2021-01", "link":"https://solved.ac/en/profile/syleekr/", "linkexplain":"syleekr"},
 {"title":"SNUPC","date":"2021-09", "summary":"Div2 1st place"},
-{"title":"ICPC Seoul preliminary","date":"2021-10", "summary":"14th place, qualified for regional"},
-{"title":"ICPC Seoul","date":"2021-11", "summary":"23rd place"}
+{"title":"ICPC Seoul 1st round","date":"2021-10", "summary":"14th place, qualified for 2nd round"},
+{"title":"ICPC Seoul 2nd round","date":"2021-11", "summary":"23rd place"}
 ],
+"scholarships":
+[{"title":"started C++ & problem solving" , "date":"2021-01", "link":"https://solved.ac/en/profile/syleekr/", "linkexplain":"syleekr"}],
 "languages": [
   {
     "language": "Korean",
