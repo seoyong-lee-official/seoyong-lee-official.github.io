@@ -3,7 +3,7 @@
   "interests": [{"name":"Physics" ,"keywords":"photonics, quantum mechanics"},
   {"name":"Deep learning + Algorithms", "keywords": "generative model, RL, algorithmic problem solving"}
   ],
-  "work": [
+  "work experience": [
     {
       "name": "AB180 (Seoul, Korea)",
       "position": "Data Scientist",
@@ -75,14 +75,13 @@
 ],
 "skills": [
   {
-    "name": "Python",
-    "keywords": "Pytorch, Numpy, Scipy, Pandas"
+    "name": "Programming Languages",
+    "keywords": "C++, Matlab, Python, Pytorch, Numpy, Scipy, Pandas"
   },
   {
-    "name": "C++"
-  },
-{
-  "name": "Matlab"
-}
+    "name": "Etc",
+    "keywords" : "git, latex, jira"
+  }
+
 ]
 }
