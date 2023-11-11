@@ -1,22 +1,20 @@
 {
-  "basics": {
-    "name": "Seoyong Lee",
-    "label": "Scientist",
-    "image": "",
-    "email": "sylee2685@gmail.com",
-    "phone": "010-2995-2685",
-    "url": "https://seoyong-lee-official.github.io",
-    "summary": "",
-    "location": {
-      "city": "Seoul",
-      "countryCode": "KR",
-      "region": "South Korea"
-    }
-  },
-  "interests": [{"name":"Physics" ,"keywords":"photonics, quantum physics"},
+
+  "interests": [{"name":"Physics" ,"keywords":"photonics, quantum mechanics"},
   {"name":"Deep learning + Algorithms", "keywords": "generative model, RL, algorithmic problem solving"}
   ],
   "work": [
+    {
+      "name": "AB180 (Seoul, Korea)",
+      "position": "Data Scientist",
+      "url": "https://www.ab180.co/",
+      "startDate": "2023-10",
+      "endDate": "Current",
+      "summary": "Worked on devising LT guided MMM",
+      "highlights": [
+        "Machine Learning, Optimization"
+      ]
+    },
     {
       "name": "AIRS Medical (Seoul, Korea)",
       "position": "Research Scientist",
@@ -58,7 +56,6 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
   "references": [],
   "projects": [],
   "programming":[{"title":"started C++ & problem solving" , "date":"2021-01", "link":"https://solved.ac/en/profile/syleekr/", "linkexplain":"syleekr"},
@@ -75,5 +72,17 @@
     "language": "English",
     "fluency": "Fluent"
   }
+],
+"skills": [
+  {
+    "name": "Python",
+    "keywords": "Pytorch, Numpy, Scipy, Pandas"
+  },
+  {
+    "name": "C++"
+  },
+{
+  "name": "Matlab"
+}
 ]
 }
