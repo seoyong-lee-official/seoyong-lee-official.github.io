@@ -54,7 +54,7 @@ He is quite handsome.
         {% include figure.html path="assets/img/liebe8.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-8 mt-md-0">
-        {% include figure.html path="assets/img/liebe5.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/liebe5.jpeg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
