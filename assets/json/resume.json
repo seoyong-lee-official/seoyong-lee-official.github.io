@@ -10,7 +10,7 @@
       "url": "https://www.ab180.co/",
       "startDate": "2023-10",
       "endDate": "Current",
-      "summary": "Worked on devising LT guided MMM",
+      "summary": "AB180 is a B2B martech company providing MMP(mobile measurement partner) and MMM(media mix modeling) solutions. Worked on devising LT guided MMM via machine learning.",
       "highlights": [
         "Machine Learning, Optimization"
       ]
@@ -21,13 +21,12 @@
       "url": "https://airsmed.com/",
       "startDate": "2023-01",
       "endDate": "2023-10",
-      "summary": "Accelerating MR imaging through deep learning. Worked on devising adequate DL architectures for image restoration and implemented algorithms for signal processing and reconstruction.",
+      "summary": "AIRS Medical is a company accelerating MR imaging through deep learning. Worked on devising adequate DL architectures for image restoration and implemented algorithms for signal processing and reconstruction.",
       "highlights": [
         "Image denoising, Image super resolution, MR reconstruction pipeline"
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution" : "Bachelor",
@@ -62,7 +61,7 @@
   "publications": [],
   "references": [],
 "scholarships":
-[{"title":"National Science Technology Scholarship" , "date":"2023-Current", "summary": "full funding for honorable undergraduates from Korean government, about $10K in total" },
+[{"title":"National Science Technology Scholarship" , "date":"2023", "summary": "full funding for honorable undergraduates from Korean government, about $10K in total" },
 {"title":"Scholarship for academic excellence, SNU" , "date":"2021", "summary": "100% funding for undergraduate students with outstanding academic performance; from SNU ECE department; full year" },
 {"title":"Scholarship for academic excellence, KSA" , "date":"2017,2018,2019", "summary": "100% funding for students with outstanding academic performance; from Korea Science Academy of Kaist; for three years" }
 ],
