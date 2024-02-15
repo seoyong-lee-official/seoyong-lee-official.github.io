@@ -53,7 +53,7 @@
     }
   ],
   "awards": [
-    {"title":"Problem solving with C++" , "date":"2021", "link":"https://solved.ac/en/profile/syleekr/", "linkexplain":"syleekr",
+    {"title":"Problem solving with C++" , "date":"2021", "link":"https://solved.ac/en/profile/syleekr/", "linkexplain":"BOJ : syleekr",
     "summary3": "SNUPC Div2 1st place", "summary4" : "ICPC Seoul 1st round, 14th place", "summary5" :"ICPC Seoul 2nd round, 23rd place" },
     {"title":"KOREAN YOUNG PHYSiCiSTS’ TOURNAMENT, GRAND PRiZE","date":"2018", 
     "summary1":" Preliminary round of International Young Physicists’ Tournament (IYPT)",
