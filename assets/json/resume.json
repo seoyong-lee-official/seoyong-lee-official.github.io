@@ -1,6 +1,6 @@
 {
 
-  "interests": [{"name":"Physics" ,"keywords":"photonics, quantum mechanics"},
+  "interests": [{"name":"Physics" ,"keywords":"optical computing, quantum mechanics"},
   {"name":"Deep learning + Algorithms", "keywords": "generative model, RL, algorithmic problem solving"}
   ],
   "Experience": [
@@ -78,11 +78,11 @@
 "skills": [
   {
     "name": "Programming Languages",
-    "keywords": "C++, Matlab, Python, Pytorch, Numpy, Scipy, Pandas"
+    "keywords": "C++, Python, Pytorch, Numpy, Scipy, Matlab,"
   },
   {
     "name": "Etc",
-    "keywords" : "Git, Latex, Jira"
+    "keywords" : "Git, Latex, Docker"
   }
 
 ]
