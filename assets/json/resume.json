@@ -11,8 +11,7 @@
       "startDate": "2023-10",
       "endDate": "Current",
       "summary": ["AB180 is a B2B martech company providing MMP(mobile measurement partner) and MMM(media mix modeling) solutions." ,
-      "Worked on building RAG(retrieval augmented generation)",
-      "Worked on devising algorithms for calibrating ad attribution"],
+      "Worked on building RAG(retrieval augmented generation) and devised algorithms for calibrating ad attribution"],
       "highlights": [
         "LLM, RAG",
         "Machine Learning, Optimization"
