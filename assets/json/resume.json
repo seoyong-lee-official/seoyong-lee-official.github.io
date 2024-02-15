@@ -53,12 +53,12 @@
     }
   ],
   "awards": [
+    {"title":"Problem solving with C++" , "date":"2021", "link":"https://solved.ac/en/profile/syleekr/", "linkexplain":"syleekr",
+    "summary3": "SNUPC Div2 1st place", "summary4" : "ICPC Seoul 1st round, 14th place", "summary5" :"ICPC Seoul 2nd round, 23rd place" },
     {"title":"KOREAN YOUNG PHYSiCiSTS’ TOURNAMENT, GRAND PRiZE","date":"2018", 
     "summary1":" Preliminary round of International Young Physicists’ Tournament (IYPT)",
     "summary2" :"Conducted research on open‑ended real‑world problems related to physics : “Conical Piles” and “Weighing Time”(Grand Prize, 1st place)",
-    "summary3" : "Minister of Science and ICT Award"},
-    {"title":"Problem solving with C++" , "date":"2021", "link":"https://solved.ac/en/profile/syleekr/", "linkexplain":"syleekr",
-    "summary3": "SNUPC Div2 1st place", "summary4" : "ICPC Seoul 1st round, 14th place", "summary5" :"ICPC Seoul 2nd round, 23rd place" }
+    "summary3" : "Minister of Science and ICT Award"}
   ],
   "publications": [],
   "references": [],
