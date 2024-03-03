@@ -1,7 +1,8 @@
 {
 
-  "interests": [{"name":"Physics" ,"keywords":"optical computing, quantum mechanics"},
-  {"name":"Deep learning + Algorithms", "keywords": "generative model, RL, algorithmic problem solving"}
+  "interests": [
+  {"name":"Deep learning + Algorithms", "keywords": "generative model, RL, algorithmic problem solving"},
+  {"name":"Physics" ,"keywords":"optical computing, quantum mechanics"}
   ],
   "Experience": [
     {
