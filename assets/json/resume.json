@@ -11,11 +11,12 @@
       "url": "https://www.ab180.co/",
       "startDate": "2023-10",
       "endDate": "Current",
-      "summary": ["AB180 is a B2B martech company providing MMP(mobile measurement partner) and MMM(media mix modeling) solutions." ,
-      "Worked on building RAG(retrieval augmented generation) and devised algorithms for calibrating ad attribution"],
+      "summary": "AB180 is a B2B martech company providing MMP(mobile measurement partner) and MMM(media mix modeling) solutions.",
       "highlights": [
-        "LLM, RAG",
-        "Machine Learning, Optimization"
+        "Regression based Ad attribution algorithms",
+        "ATT consent rate Optimization using RL",
+        "Lookalike audience generator using clustering and graph algorithms",
+        "Retrieval augmented generation(RAG) systems"
       ]
     },
     {
@@ -24,9 +25,10 @@
       "url": "https://airsmed.com/",
       "startDate": "2023-01",
       "endDate": "2023-10",
-      "summary": "AIRS Medical is a company accelerating MR imaging through deep learning. Worked on devising adequate DL architectures for image restoration and implemented algorithms for signal processing and reconstruction.",
+      "summary": "AIRS Medical is a company accelerating MR imaging through deep learning.",
       "highlights": [
-        "Image denoising, Image super resolution, MR reconstruction pipeline"
+        "Devised adequate DL architectures for image restoration",
+        "implemented algorithms for signal processing and reconstruction"
       ]
     }
   ],
@@ -43,13 +45,14 @@
       ]
     },
     {
+     "institution" : "first school in Korea for science-gifted students",
       "url": "https://www.ksa.hs.kr/Eng",
       "area": "Majored in Physics",
       "studyType": "Korea Science Academy of KAIST",
       "startDate": "2017-03",
       "endDate": "2020-02",
       "score":"",
-      "courses": ["GPA 4.27/4.3","Graduated with distinction : Busan Mayor’s award"
+      "courses": ["GPA 4.27/4.3","Graduated with distinction, Awarded by the Mayor of Busan"
       ]
     }
   ],
@@ -81,7 +84,7 @@
 "skills": [
   {
     "name": "Programming Languages",
-    "keywords": "C++, Python, Pytorch, Numpy, Scipy, Matlab,"
+    "keywords": "C++, CUDA, Python, Pytorch, Numpy, Scipy, Matlab,"
   },
   {
     "name": "Etc",
