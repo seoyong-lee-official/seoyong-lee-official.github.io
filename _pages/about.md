@@ -20,8 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I am an undergraduate student at Seoul National University, majoring in Electrical and Computer Engineering. 
 
-I am currently working as a data scientist on [AB180](https://www.ab180.co/en), focusing on developing RAG framework.
-Before that I worked as a research scientist on [AIRS Medical](https://airsmed.com/), solving problems related to MR Imaging and deep learning.
+I am currently studying about parallel algorithms for graph pattern mining at [Accelerated Intelligent Systems Lab (AISys), SNU](https://ais.snu.ac.kr/), as an undergraduate research intern
+Before that I worked as a data scientist at [AB180(AIRBRIDGE)](https://www.ab180.co/en) and as a research scientist at [AIRS Medical](https://airsmed.com/)
 
 please feel free to contact me at: **sylee2685 {at} gmail {dot} com**
 
