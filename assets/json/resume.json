@@ -13,10 +13,8 @@
       "endDate": "Current",
       "summary": "AB180 is a B2B martech company providing MMP(mobile measurement partner) and MMM(media mix modeling) solutions.",
       "highlights": [
-        "Regression based Ad attribution algorithms",
-        "ATT consent rate Optimization using RL",
-        "Lookalike audience generator using clustering and graph algorithms",
-        "Retrieval augmented generation(RAG) systems"
+        "Ideation for ad attribution algorithms, AppTrackingTransparency(ATT) consent rate optimization, and In‑App Advertisement(IAA) optimization.",
+        "Developed a Retrieval‑Augmented‑Generation (RAG) system"
       ]
     },
     {
@@ -57,8 +55,8 @@
     }
   ],
   "awards": [
-    {"title":"Problem solving with C++" , "date":"2021", "link":"https://solved.ac/en/profile/syleekr/", "linkexplain":"BOJ : syleekr",
-    "summary3": "SNUPC Div2 1st place", "summary4" : "ICPC Seoul 1st round, 14th place", "summary5" :"ICPC Seoul 2nd round, 23rd place" },
+    {"title":"Problem solving with C++" , "date":"2021~", "link":"https://solved.ac/en/profile/syleekr/", "linkexplain":"BOJ : syleekr",
+    "summary3": "SNUPC Div2 1st place", "summary4" : "ICPC Seoul 1st round, 14th place", "summary5" :"ICPC Seoul 2nd round, 23rd place","summary6" :"SCPC 5th place award" },
     {"title":"KOREAN YOUNG PHYSiCiSTS’ TOURNAMENT, GRAND PRiZE","date":"2018", 
     "summary1":" Preliminary round of International Young Physicists’ Tournament (IYPT)",
     "summary2" :"Conducted research on open‑ended real‑world problems related to physics : “Conical Piles” and “Weighing Time”(Grand Prize, 1st place)",
