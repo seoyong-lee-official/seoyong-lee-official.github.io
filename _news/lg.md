@@ -1,0 +1,10 @@
+---
+layout: post
+title: Won Optimization Grand Challenge!
+date: 2024-10-25 12:00:00+0900
+inline: false
+related_posts: false
+published: true
+---
+
+https://www.lgcns.com/pr/news/61527/
