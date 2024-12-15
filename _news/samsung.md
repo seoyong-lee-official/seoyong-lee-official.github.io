@@ -10,4 +10,6 @@ published: true
 "The Interval Scheduling Problem has a simple O(n) greedy solution.   
 Can you then solve k Interval Scheduling Problems in O(n + k) time?"
 
+I was fortunate to solve this problem and receive an award.
+
 [What is SCPC?](https://news.samsung.com/kr/tag/scpc-2024)  
