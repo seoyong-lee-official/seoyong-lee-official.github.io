@@ -164,7 +164,7 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /:collection/:title/
+    permalink: /news/:title/
   projects:
     output: true
     permalink: /projects/:path/
