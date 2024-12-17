@@ -7,7 +7,7 @@ related_posts: false
 published: true
 ---
 
-The **Interval Scheduling Problem** has a well-known, simple \( O(n) \) greedy solution.  
+The **Interval Scheduling Problem** has a well-known, simple $O(n)$ greedy solution.  
 But what if the problem becomes more complex? Imagine solving \( k \) Interval Scheduling Problems, each with \( n/k \) unique independent intervals and \( n \) shared intervals across all \( k \) problems.  
 Can you design an algorithm that beats the naïve \( O(kn) \) approach?
 
