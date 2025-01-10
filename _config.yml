@@ -257,7 +257,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['deep learning', 'physics', 'math', 'code'] # these tags will be displayed on the front page of your blog
+display_tags: [] # these tags will be displayed on the front page of your blog
 #display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
@@ -326,7 +326,7 @@ imagemagick:
     - 800
     - 1400
   input_directories:
-    - assets/img/
+    - /assets/img/
   input_formats:
     - ".jpg"
     - ".jpeg"
