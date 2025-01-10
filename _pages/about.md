@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 Hello! I am an undergraduate student at Seoul National University, majoring in Electrical and Computer Engineering. 
 I enjoy designing novel, clever algorithms and transforming them into practical, real-world systems.
 
-Currently, I’m an undergraduate researcher at the [Accelerated Intelligent Systems Lab (AISys), SNU](https://ais.snu.ac.kr/) where I focus on graph-based Approximate Nearest Neighbor Search (ANNS) and graph pattern mining (GPM).
+Currently, I’m an undergraduate researcher at [Accelerated Intelligent Systems Lab (AISys), SNU](https://ais.snu.ac.kr/) where I focus on graph-based Approximate Nearest Neighbor Search (ANNS) and graph pattern mining (GPM) problems.
 Previously, I worked as a data scientist at [AB180(AIRBRIDGE)](https://www.ab180.co/en) and as a research scientist at [AIRS Medical](https://airsmed.com/)
 
 please feel free to contact me at: **sylee2685 {at} gmail {dot} com**
