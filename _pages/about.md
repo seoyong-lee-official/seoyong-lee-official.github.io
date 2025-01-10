@@ -7,7 +7,7 @@ cv_pdf: SYLEE_cv.pdf
 
 profile:
   align: right
-  image: prof_pic_airs.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Seoul, S.Korea</p>
