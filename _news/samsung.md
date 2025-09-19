@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SCPC 2024!
+title: SCPC 2024
 date: 2024-09-11
 inline: false
 related_posts: false
