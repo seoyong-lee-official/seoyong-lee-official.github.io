@@ -1,0 +1,115 @@
+.post .social .contact-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+  font-size: 2rem;
+}
+
+.cv-trigger {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-height: 46px;
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 999px;
+  background: var(--global-card-bg-color);
+  color: var(--global-text-color);
+  font: inherit;
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s, box-shadow 0.2s;
+
+  svg { width: 22px; height: 22px; }
+
+  &:hover {
+    color: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.07);
+  }
+}
+
+.cv-trigger:focus-visible,
+.cv-dialog-close:focus-visible {
+  outline: 2px solid var(--global-theme-color);
+  outline-offset: 4px;
+}
+
+body.cv-modal-open { overflow: hidden; }
+
+.cv-dialog {
+  box-sizing: border-box;
+  width: calc(100% - 2rem);
+  max-width: 540px;
+  max-height: calc(100% - 3rem);
+  margin: auto;
+  padding: 2.25rem;
+  overflow-y: auto;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 20px;
+  background: var(--global-card-bg-color);
+  color: var(--global-text-color);
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.2);
+  text-align: left;
+
+  &::backdrop {
+    background: rgba(20, 20, 28, 0.4);
+    backdrop-filter: blur(5px);
+  }
+
+  .cv-dialog-eyebrow {
+    margin: 0 2rem 0.75rem 0;
+    color: var(--global-theme-color);
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  h2 { margin: 0; font-size: 1.8rem; font-weight: 500; }
+
+  .cv-dialog-subtitle {
+    margin: 0.35rem 0 1.5rem;
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+  }
+}
+
+.cv-dialog-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--global-text-color-light);
+  cursor: pointer;
+
+  svg { width: 20px; height: 20px; }
+  &:hover { background: var(--global-code-bg-color); color: var(--global-text-color); }
+}
+
+.cv-dialog-section {
+  padding-top: 1rem;
+  border-top: 1px solid var(--global-divider-color);
+
+  & + & { margin-top: 1rem; }
+  h3 { margin: 0 0 0.4rem; font-size: 0.9rem; font-weight: 500; }
+  p { margin: 0; font-size: 0.95rem; line-height: 1.7; }
+}
+
+@media (max-width: 575px) {
+  .cv-dialog { padding: 1.75rem 1.5rem; }
+}

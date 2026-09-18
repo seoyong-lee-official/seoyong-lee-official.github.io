@@ -1,0 +1,18 @@
+<dialog id="cv-dialog" class="cv-dialog" aria-labelledby="cv-dialog-title">
+  <button class="cv-dialog-close" type="button" aria-label="Close CV" data-cv-close autofocus>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true" focusable="false">
+      <path d="m6 6 12 12M6 18 18 6" />
+    </svg>
+  </button>
+  <p class="cv-dialog-eyebrow">Curriculum vitae</p>
+  <h2 id="cv-dialog-title">{{ site.first_name }} {{ site.last_name }}</h2>
+  <p class="cv-dialog-subtitle">A brief background</p>
+  <div class="cv-dialog-section">
+    <h3>University</h3>
+    <p>{{ page.cv_summary.university | escape }}</p>
+  </div>
+  <div class="cv-dialog-section">
+    <h3>Jane Street</h3>
+    <p>{{ page.cv_summary.career | escape }}</p>
+  </div>
+</dialog>
